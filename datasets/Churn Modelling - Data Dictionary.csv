@@ -1,0 +1,13 @@
+﻿Column Name,Context,Dataset link
+Geography,The customer’s nation of residence,https://www.kaggle.com/shrutimechlearn/churn-modelling
+Gender,The customer’s gender,
+Age,The customer’s age,
+Tenure,The period of time for which the customer has been with the firm,
+BankBalance,The estimated bank balance of the particular customer with a particular bank.,
+NumOfProducts,The number of services White Rock is providing the customer,
+HasCrCard,Whether or not the customer has a credit card,
+IsActiveMember,Whether or not the customer is an active member. Our interpretation of this is whether or not they request frequent check-ins or consultations with their asset manager,
+EstimatedSalary,The estimated salary of the particular customer,
+Exited,Whether or not the customer terminated their relationship as a client of White Rock,
+,,
+,,

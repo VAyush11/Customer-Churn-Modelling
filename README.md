@@ -4,4 +4,4 @@ Customer Churn modelling was a term project undertaken by myself and 4 group mem
 
 As part of this project, we also analysed several different dynamics and delivery-styles of  customer service, including by phone, in-person, written means etc., to arrive at a comprehensive picture of how today's asset managers should holistically approach customer service and customer churn.
 
-As such, the works of this repository are the joint efforts of our entire group (Kathleen, Shao Yu, Wanxuan, Elliot, Ayush)
+As such, the works of this repository are the joint efforts of our entire group (Kathleen, Shao Yu, Wanxuan, Elliot, Ayush) {Full names and Matric Numbers redacted}
